@@ -1,4 +1,4 @@
-update=Wed 21 Feb 2018 02:41:49 PM MST
+update=Wed 21 Feb 2018 08:36:47 PM MST
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,5 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=Footprints/nsr003a0x
+LibName34=/home/fiona/Spr_18/EE382/Footprints/OS_Switches.pretty/OS_Switches_2
+LibName35=/home/fiona/Spr_18/IEEE_Projects/USB_Charger
