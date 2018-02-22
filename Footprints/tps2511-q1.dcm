@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS2511-Q1
+D USB Dedicated Charging Port Controller
+K USB Charge
+F http://www.ti.com/lit/ds/symlink/tps2511-q1.pdf
+$ENDCMP
+#
+#End Doc Library
