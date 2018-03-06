@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name OS_Switches)(type KiCad)(uri ${KIPRJMOD}/../Footprints/OS_Switches.pretty)(options "")(descr "Pretty Switch?"))
+  (lib (name NSR)(type KiCad)(uri ${KIPRJMOD}/../Footprints/NSR003A0X.pretty)(options "")(descr "Power Regulator"))
+)
